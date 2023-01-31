@@ -1,0 +1,23 @@
+.header-menu {
+  position: relative;
+  width: 100%;
+  height: 10%;
+  /* background-color: white; */
+  color: rgb(212, 212, 212);
+  border-bottom: 1px solid rgb(61, 61, 61);
+  font-size: medium;
+}
+
+.title-menu {
+  position: relative;
+  width: 100%;
+  height: 50%;
+  color: "white";
+  border-bottom: 1px solid rgb(71, 70, 70);
+}
+.page-menu {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+}
